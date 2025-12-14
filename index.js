@@ -24,6 +24,14 @@ const newsList = [
       date: "14/12/2025",
       image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=600",
       summary: "Kết hợp Frontend Vercel và Backend Render giúp tối ưu chi phí và hiệu năng."
+    },
+
+    {
+      id: 3,
+      title: "Thằng Chó Đoàn Lê Hoàng Nguyên!! Mày thấy chưa đm t sửa Backend nè",
+      date: "14/12/2025",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Yen_Bai_-_dogs_-_P1390010.JPG/1200px-Yen_Bai_-_dogs_-_P1390010.JPG",
+      summary: "Kết hợp Frontend Vercel và Backend Render giúp tối ưu chi phí và hiệu năng."
     }
 ];
 
